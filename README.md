@@ -39,4 +39,4 @@ To view the webpage:
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skysnap-x100-html-only.git
+ https://github.com/Adityavarshney1122/first-repo.git
